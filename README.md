@@ -14,7 +14,7 @@
 # Setting up MATLAB's plugins for Unreal Engine
 ## Setting up necessary files from a support package 
 To create and connect a custom Unreal Engine scene, the plugins from the MATLAB toolbox must be installed on Unreal Engine
-Watch (see [Full tutorial](https://uk.mathworks.com/videos/using-unreal-engine-with-simulink-part-2-preparing-to-create-custom-scenes-1634208382735.html) )
+Watch (see [Use Unreal Engine with Simulink, Part 2: Preparations for Creating Custom Scenes](https://uk.mathworks.com/videos/using-unreal-engine-with-simulink-part-2-preparing-to-create-custom-scenes-1634208382735.html) )
 
 ## Step 1: Copy the support package folder from _Mathworks Package directory_ to _Unreal Engine plugin directory_
 MathWorks Support Package install directory
