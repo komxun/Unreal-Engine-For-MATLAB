@@ -35,12 +35,19 @@ For example, the [UAV Toolbox Interface for Unreal Engine Projects](https://uk.m
 - RoadRunnerMaterials
 These plugins MUST be installed in Unreal Engine to use this toolbox
 
+![image](https://github.com/komxun/Unreal-Engine-For-MATLAB/assets/133139057/3c494566-71f2-4fa2-8fe6-a7a00e0c6f90)
+
+
 ## Step 2: Enable Mathworks plugins in the Unreal Engine
 - Go to `Edit` > `Plugins` and verify that the `Enabled` box is checked for all the necessary plugins
 - After enabling the plugins, you may have to restart the Unreal Editor
 
 ![image](https://github.com/komxun/Unreal-Engine-For-MATLAB/assets/133139057/97d40c16-651f-40d2-86fc-4567d0f1ec3b)
 
-IMPORTANT!!! : once the `MathWorks Interface` is enabled, you CANNOT open the scene directly from the Unreal Editor!!!
+IMPORTANT!!! : once the `MathWorks Interface` is **enabled**, you CANNOT open that unreal project directly from the Unreal Editor!!!
+- You MUST open the project either from **Simulink**'s `Simulation 3D Scene Configuration block`, or from MATLAB's script
+
+![image](https://github.com/komxun/Unreal-Engine-For-MATLAB/assets/133139057/8cccde50-748e-4d4e-a411-ef584926a682)
+
 
 
