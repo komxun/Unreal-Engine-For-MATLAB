@@ -39,7 +39,7 @@ These plugins MUST be installed in Unreal Engine to use this toolbox
 
 
 ## Step 2: Enable Mathworks plugins in the Unreal Engine
-- Go to `Edit` > `Plugins` and verify that the `Enabled` box is checked for all the necessary plugins
+- Open Unreal Editor, go to `Edit` > `Plugins` and verify that the `Enabled` box is checked for all the necessary plugins
 - After enabling the plugins, you may have to restart the Unreal Editor
 
 ![image](https://github.com/komxun/Unreal-Engine-For-MATLAB/assets/133139057/97d40c16-651f-40d2-86fc-4567d0f1ec3b)
