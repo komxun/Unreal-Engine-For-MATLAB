@@ -8,7 +8,7 @@
 
 # Download and Install Unreal Engine
 - Download Epic Games Launcher and open it to download Unreal Engine [Unreal Engine Download Instructions](https://www.unrealengine.com/en-US/download)
-- In Epic Games Launcher, you can select the Unreal Engine version to be downloaded!
+- In Epic Games Launcher, you can select the Unreal Engine version to be downloaded! In this case, we use `Unreal Engine 4.27`
 
 
 # Setting up MATLAB's plugins for Unreal Engine
